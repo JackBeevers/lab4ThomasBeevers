@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lab4ThomasBeevers/1.0.0": {
+        "runtime": {
+          "lab4ThomasBeevers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab4ThomasBeevers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
